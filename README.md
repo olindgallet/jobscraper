@@ -4,10 +4,15 @@ ___
 Scrapes different job sites and documents them into a Google sheet.
 ___
 Currently supported:
+
 -Glassdoor
+
 -Stack Overflow
+
 -Indeed
+
 -We Work Remotely
+
 ___
 
 1.  Clone the repository.  Download the files.  However you choose, get the files on your system.
