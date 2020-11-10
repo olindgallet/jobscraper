@@ -1,0 +1,4 @@
+requests==2.21.0
+beautifulsoup4==4.9.1
+EZSheets==2020.10.10
+cfscrape==2.1.1
