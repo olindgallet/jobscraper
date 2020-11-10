@@ -24,11 +24,6 @@ import ezsheets
 
 def main():
     """List files in the spreadsheet"""
-    #print(gd.scrape(gd.PYTHON_JOBS))
-    #print(gd.scrape(gd.JAVA_JOBS))
-    #print(gd.scrape(gd.JAVASCRIPT_JOBS))
-    #print(gd.scrape(gd.COPYWRITING_JOBS))
-    
     ss=ezsheets.Spreadsheet('putyourcodehere')
     ss.createSheet(datetime.now().strftime("%d %b, %H:%M"),0,3,rowCount=2000)
     sh = ss.sheets[0]
