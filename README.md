@@ -1,5 +1,5 @@
 ___
-# Python Jobscraper
+# Python Jobscraper to Google Sheet
 ___
 Scrapes different job sites and documents them into a Google sheet.
 ___
