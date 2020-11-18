@@ -1,5 +1,8 @@
 # coding=utf-8
-
+# Author: Olin Gallet
+# Date: 18 Nov 2020
+# 
+# Puts job links from various sites into a Google spreadsheets file.
 from __future__ import print_function
 from datetime import datetime
 import websites.weworkremotely as wwr
